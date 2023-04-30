@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mike-Kimani
-- 👀 I’m interested in elecrtronics and embedded systems
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on PCB designs
+- 👀 I’m interested in development of embedded systems
+- 🌱 I’m currently learning Arm architecture
+- 💞️ I’m looking to collaborate on PCB designs and available for PCB reviews
 - 📫 How to reach me mikalkimmani@gmail.com
 
 <!---
