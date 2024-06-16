@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mike-Kimani
-- 👀 I’m interested in development of embedded systems
-- 🌱 I’m currently learning Arm architecture
+- 👀 I’m interested in development of backend systems
+- 🌱 I’m currently learning Backend Systems Design
 - 💞️ I’m looking to collaborate on PCB designs and available for PCB reviews
 - 📫 How to reach me muchunumike@gmail.com
 
